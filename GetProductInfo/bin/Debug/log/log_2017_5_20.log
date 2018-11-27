@@ -1,0 +1,70 @@
+ ######################### 2017/5/20 17:51:18#########################
+ System.ArgumentException: 已添加项。字典中的关键字:“ProductName”所添加的关键字:“ProductName”
+   在 System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   在 System.Collections.Hashtable.Add(Object key, Object value)
+   在 System.Collections.Hashtable.SyncHashtable.Add(Object key, Object value)
+   在 GetProductInfo.GetProductInfoWorker.FetchProInfo(Document doc, Int64 aliGroupId, Hashtable& ProductField) 位置 E:\Zeus\WebGather\GetProductInfo\GetProductInfoWorker.cs:行号 93
+   在 GetProductInfo.GetProductInfoWorker.AnalyseHtml(Alibaba_ProGather gatherInfo) 位置 E:\Zeus\WebGather\GetProductInfo\GetProductInfoWorker.cs:行号 67
+   在 GetProductInfo.GetProductInfoWorker.WordProcess() 位置 E:\Zeus\WebGather\GetProductInfo\GetProductInfoWorker.cs:行号 48
+   在 WorkerSpace.BaseWorker`1.InitWork() 位置 E:\Zeus\WebGather\WorkerSpace\BaseWorker.cs:行号 146
+
+
+ ######################### 2017/5/20 17:51:30#########################
+ ObjectConvertInt()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:30#########################
+ ObjectConvertDecimal()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:30#########################
+ ObjectConvertDecimal()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:34#########################
+ System.ArgumentException: 已添加项。字典中的关键字:“ProductName”所添加的关键字:“ProductName”
+   在 System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   在 System.Collections.Hashtable.Add(Object key, Object value)
+   在 System.Collections.Hashtable.SyncHashtable.Add(Object key, Object value)
+   在 GetProductInfo.GetProductInfoWorker.FetchProInfo(Document doc, Int64 aliGroupId, Hashtable& ProductField) 位置 E:\Zeus\WebGather\GetProductInfo\GetProductInfoWorker.cs:行号 93
+   在 GetProductInfo.GetProductInfoWorker.AnalyseHtml(Alibaba_ProGather gatherInfo) 位置 E:\Zeus\WebGather\GetProductInfo\GetProductInfoWorker.cs:行号 67
+   在 GetProductInfo.GetProductInfoWorker.WordProcess() 位置 E:\Zeus\WebGather\GetProductInfo\GetProductInfoWorker.cs:行号 48
+   在 WorkerSpace.BaseWorker`1.InitWork() 位置 E:\Zeus\WebGather\WorkerSpace\BaseWorker.cs:行号 146
+
+
+ ######################### 2017/5/20 17:51:35#########################
+ ObjectConvertInt()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:35#########################
+ ObjectConvertDecimal()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:35#########################
+ ObjectConvertDecimal()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:38#########################
+ ObjectConvertInt()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:38#########################
+ ObjectConvertDecimal()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:38#########################
+ ObjectConvertDecimal()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:48#########################
+ ObjectConvertInt()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:48#########################
+ ObjectConvertDecimal()-未将对象引用设置到对象的实例。
+
+
+ ######################### 2017/5/20 17:51:48#########################
+ ObjectConvertDecimal()-未将对象引用设置到对象的实例。
+
+

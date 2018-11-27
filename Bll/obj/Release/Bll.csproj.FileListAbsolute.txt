@@ -1,0 +1,14 @@
+E:\Zeus\WebGather\Bll\bin\Release\Bll.dll
+E:\Zeus\WebGather\Bll\bin\Release\Bll.pdb
+E:\Zeus\WebGather\Bll\bin\Release\Dos.DataAccess.dll
+E:\Zeus\WebGather\Bll\bin\Release\Dos.ORM.dll
+E:\Zeus\WebGather\Bll\bin\Release\Model.dll
+E:\Zeus\WebGather\Bll\bin\Release\Dos.Common.dll
+E:\Zeus\WebGather\Bll\bin\Release\Dos.DataAccess.pdb
+E:\Zeus\WebGather\Bll\bin\Release\Dos.ORM.pdb
+E:\Zeus\WebGather\Bll\bin\Release\Dos.ORM.xml
+E:\Zeus\WebGather\Bll\bin\Release\Model.pdb
+E:\Zeus\WebGather\Bll\bin\Release\Dos.Common.pdb
+E:\Zeus\WebGather\Bll\obj\Release\Bll.csprojResolveAssemblyReference.cache
+E:\Zeus\WebGather\Bll\obj\Release\Bll.dll
+E:\Zeus\WebGather\Bll\obj\Release\Bll.pdb

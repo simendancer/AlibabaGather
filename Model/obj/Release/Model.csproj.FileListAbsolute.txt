@@ -1,0 +1,8 @@
+E:\Zeus\WebGather\Model\bin\Release\Model.dll
+E:\Zeus\WebGather\Model\bin\Release\Model.pdb
+E:\Zeus\WebGather\Model\bin\Release\Dos.ORM.dll
+E:\Zeus\WebGather\Model\bin\Release\Dos.ORM.pdb
+E:\Zeus\WebGather\Model\bin\Release\Dos.ORM.xml
+E:\Zeus\WebGather\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+E:\Zeus\WebGather\Model\obj\Release\Model.dll
+E:\Zeus\WebGather\Model\obj\Release\Model.pdb

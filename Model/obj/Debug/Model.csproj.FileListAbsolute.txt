@@ -1,0 +1,16 @@
+E:\Zeus\WebGather\Model\bin\Debug\Model.dll
+E:\Zeus\WebGather\Model\bin\Debug\Model.pdb
+E:\Zeus\WebGather\Model\bin\Debug\Dos.ORM.dll
+E:\Zeus\WebGather\Model\bin\Debug\Dos.ORM.pdb
+E:\Zeus\WebGather\Model\bin\Debug\Dos.ORM.xml
+E:\Zeus\WebGather\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Zeus\WebGather\Model\obj\Debug\Model.dll
+E:\Zeus\WebGather\Model\obj\Debug\Model.pdb
+E:\workspace\Mogout\源代码\WebGather\Model\bin\Debug\Model.dll
+E:\workspace\Mogout\源代码\WebGather\Model\bin\Debug\Model.pdb
+E:\workspace\Mogout\源代码\WebGather\Model\bin\Debug\Dos.ORM.dll
+E:\workspace\Mogout\源代码\WebGather\Model\bin\Debug\Dos.ORM.pdb
+E:\workspace\Mogout\源代码\WebGather\Model\bin\Debug\Dos.ORM.xml
+E:\workspace\Mogout\源代码\WebGather\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\workspace\Mogout\源代码\WebGather\Model\obj\Debug\Model.dll
+E:\workspace\Mogout\源代码\WebGather\Model\obj\Debug\Model.pdb
